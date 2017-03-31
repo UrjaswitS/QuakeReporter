@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518259791641",
+    "firebase_url": "https://quakereport-c9c90.firebaseio.com",
+    "project_id": "quakereport-c9c90",
+    "storage_bucket": "quakereport-c9c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518259791641:android:9f77137abfef293d",
+        "android_client_info": {
+          "package_name": "com.example.android.quakereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518259791641-4ejfgcb3r0ibk4ivlqkpoqfqipoe2c1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.quakereport",
+            "certificate_hash": "125c0ee65992f4c3ac3d82149faacb06ea2a7be9"
+          }
+        },
+        {
+          "client_id": "518259791641-ivjndh9neunml0hpt6u4f7rhghorif48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-chMHhNZXRsel0VSvAZ9jiKMpsDtGjE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518259791641-ivjndh9neunml0hpt6u4f7rhghorif48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

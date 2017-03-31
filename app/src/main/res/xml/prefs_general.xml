@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+  >
+
+    <com.example.android.quakereport.EarthquakeTextPreference
+        android:title="@string/pref_start_date_label"
+        android:key="@string/pref_start_date_key"
+        android:defaultValue="@string/pref_start_date_default"
+        android:inputType="date"
+        android:singleLine="true"
+        />
+
+    <com.example.android.quakereport.EarthquakeTextPreference
+        android:title="@string/pref_magnitude_label"
+        android:key="@string/pref_magnitude_key"
+        android:defaultValue="@string/pref_magnitude_default"
+        android:inputType="text"
+        android:singleLine="true"
+        />
+
+    <com.example.android.quakereport.EarthquakeTextPreference
+        android:title="@string/pref_end_date_label"
+        android:key="@string/pref_end_date_key"
+        android:defaultValue="@string/pref_end_date_default"
+        android:inputType="date"
+        android:singleLine="true"
+        />
+
+</PreferenceScreen>
